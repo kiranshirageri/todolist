@@ -3,6 +3,8 @@ import React, { Component } from 'react';
 import Header from './components/Header';
 import SideBar from './components/SideBar';
 import Content from './components/Content';
+import Pagination from "react-js-pagination";
+
 
 
 class App extends Component {

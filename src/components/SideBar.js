@@ -12,7 +12,7 @@ export default class SideBar extends Component {
                             <img src="img/react.svg" className="img-circle" alt="User Image" />
                         </div>
                         <div className="pull-left info">
-                            <p>Kiran</p>
+                            <p>Admin</p>
                            
                         </div>
                     </div>
